@@ -1,14 +1,18 @@
 {
-	"geode": "2.0.0-beta.27",
-	"gd": "2.204",
-	"version": "v1.0.0",
-	"id": "ntpinheiro.jerry",
-	"name": "Jerry",
-	"developer": "NTPinheiro",
-	"description": "say hi to him",
-	"resources": {
-		"sprites": [
-			"sprites/*.png"
-		]
-	}
+    "geode": "2.0.0-beta.27",
+    "gd": {
+        "win": "2.204",
+        "android": "2.205",
+        "mac": "2.200"
+    },
+    "version": "v1.0.0",
+    "id": "ntpinheiro.jerry",
+    "name": "Jerry",
+    "developer": "NTPinheiro",
+    "description": "say hi to him",
+    "resources": {
+        "sprites": [
+            "sprites/*.png"
+        ]
+    }
 }
